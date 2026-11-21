@@ -1,4 +1,4 @@
-# AOD-Theme-Manager
+# AOD Theme Manager
 
 Pick your favourite **20 Always-On Display themes** and build a custom backup file for **HyperOS** that you can restore from the system settings. 
 Stays permanent, no root required
