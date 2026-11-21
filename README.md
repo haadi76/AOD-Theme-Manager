@@ -12,9 +12,7 @@ Stays permanent, no root required
   then replace the placeholder filenames below. Delete this comment when done.
 -->
 
-<img width="200" height="400" alt="IMG_20261120_222953 (5)" src="https://github.com/user-attachments/assets/15ca7d8d-cc81-4197-8f3e-5db28cc32015" />
-<img width="200" height="400" alt="IMG_20261120_222924 (5)" src="https://github.com/user-attachments/assets/7c2f04c9-1c46-4668-9f1e-42c34b1ba09c" />
-<img width="200" height="400" alt="IMG_20261120_222850 (5)" src="https://github.com/user-attachments/assets/a45c8d56-ce77-42e6-af32-11abc86eb56a" />
+<img width="200" height="400" alt="IMG_20261120_222953 (5)" src="https://github.com/user-attachments/assets/15ca7d8d-cc81-4197-8f3e-5db28cc32015" /><img width="200" height="400" alt="IMG_20261120_222924 (5)" src="https://github.com/user-attachments/assets/7c2f04c9-1c46-4668-9f1e-42c34b1ba09c" /><img width="200" height="400" alt="IMG_20261120_222850 (5)" src="https://github.com/user-attachments/assets/a45c8d56-ce77-42e6-af32-11abc86eb56a" />
 
 ## Features
 
